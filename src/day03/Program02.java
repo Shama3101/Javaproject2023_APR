@@ -13,7 +13,8 @@ public class Program02 {
 		
 		
 		
-		public static void addFunction(int a,int b) {
+		public static void addFunction(int a,int b) 
+		{
 		
 		
 			System.out.println(a+b);
